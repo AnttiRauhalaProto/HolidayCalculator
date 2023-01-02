@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayCalculator", "HolidayCalculator\HolidayCalculator.csproj", "{17825B85-BF77-42FD-95DC-2A45ABE6633A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{09332E83-C161-4FCB-A980-85E75C946D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreTests", "CoreTests\CoreTests.csproj", "{75EB5724-B624-4DE0-A50B-0CB383B5C803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17825B85-BF77-42FD-95DC-2A45ABE6633A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17825B85-BF77-42FD-95DC-2A45ABE6633A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17825B85-BF77-42FD-95DC-2A45ABE6633A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17825B85-BF77-42FD-95DC-2A45ABE6633A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09332E83-C161-4FCB-A980-85E75C946D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09332E83-C161-4FCB-A980-85E75C946D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09332E83-C161-4FCB-A980-85E75C946D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09332E83-C161-4FCB-A980-85E75C946D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EB5724-B624-4DE0-A50B-0CB383B5C803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EB5724-B624-4DE0-A50B-0CB383B5C803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EB5724-B624-4DE0-A50B-0CB383B5C803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EB5724-B624-4DE0-A50B-0CB383B5C803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76409603-36F6-4ED7-AC94-704B4B8199C7}
+	EndGlobalSection
+EndGlobal
